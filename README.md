@@ -8,7 +8,7 @@
  
 </div>
 
-- 👨‍💻 I am a web developer with focus on building quality websites and applications. I work at Würth, as a Web Dev. I build personal projects during my free time. Please go through my repos and you might come across something useful.
+- 👨‍💻 I am a frontend developer with focus on building quality websites and applications. I work as a Web Dev. I build personal projects during my free time. Please go through my repos and you might come across something useful.
 
 - 📫 The best way to reach me over is [Linkedin](https://www.linkedin.com/in/neha-keskar-b9206b217/). You can also send me a mail to nehakeskar48@gmail.com.
 
