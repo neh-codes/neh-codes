@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha K</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <div align=center>
   <a href="https://www.linkedin.com/in/neha-keskar-b9206b217/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
